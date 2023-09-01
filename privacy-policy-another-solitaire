@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Another Solitaire</h1>
+
+    <p><strong>Last updated: September 1, 2023</strong></p>
+
+    <h2>Introduction</h2>
+
+    <p>Welcome to Another Solitaire! This privacy policy is here to inform you about how we handle your data. We want to assure you that your privacy and security are important to us.</p>
+
+    <h2>Data Collection</h2>
+
+    <p>We do not collect any personal information or data from our users. We do not track your activities within the app, and we do not gather any information about you or your device.</p>
+
+    <h2>Data Usage</h2>
+
+    <p>Since we do not collect any user data, we have no usage for personal information. We respect your privacy and have designed our app in a way that does not require or use any personal data.</p>
+
+    <h2>Third-Party Services</h2>
+
+    <p>We do not use any third-party services, such as analytics tools, in our app. This means that your interactions with Another Solitaire are solely between you and the app itself. We do not share your data with any third parties.</p>
+
+    <p><strong>Riya Singhal</strong></p>
+
+    <h2>Changes to this Privacy Policy</h2>
+
+    <p>We may update our privacy policy in the future. Any changes to this policy will be reflected in the app's updated version, and we will inform users of these changes within the app.</p>
+
+    <p>Thank you for using Another Solitaire. We hope you enjoy using the app!</p>
+</body>
+</html>
