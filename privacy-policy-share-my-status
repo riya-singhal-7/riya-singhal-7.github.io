@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Share My Status</h1>
+
+    <p><strong>Last updated: May 26, 2024</strong></p>
+
+    <h2>Introduction</h2>
+
+    <p>Welcome to Share My Status! This privacy policy is here to inform you about how we handle your data. We want to assure you that your privacy and security are important to us.</p>
+
+    <h2>Data Collection</h2>
+
+    <p>We collect the following personal information that you voluntarily provide to us when you register on the app:</p>
+    <ul>
+        <li>Game Center ID</li>
+        <li>Text status</li>
+        <li>Drawing status (image data)</li>
+    </ul>
+
+    <h2>Data Usage</h2>
+
+    <p>We use the information we collect for the following purposes:</p>
+    <ul>
+        <li>To facilitate communication and sharing of status updates with your friends.</li>
+        <li>To store your status updates in our external database so that they are accessible to your friends.</li>
+    </ul>
+
+    <h2>Data Storage and Security</h2>
+
+    <p>We use an external database called CloudKit to store your information. We take reasonable steps to protect your information from unauthorized access, use, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure and we cannot guarantee absolute security.</p>
+
+    <h2>Third-Party Services</h2>
+
+    <p>We do not use any third-party services, such as analytics tools, in our app. This means that your interactions with Share My Status are solely between you and the app itself. We do not share your data with any third parties, except for the purpose of facilitating the sharing of status updates with your friends through the external database.</p>
+
+    <h2>Changes to this Privacy Policy</h2>
+
+    <p>We may update our privacy policy in the future. Any changes to this policy will be reflected in the app's updated version, and we will inform users of these changes within the app.</p>
+
+    <p>Thank you for using Share My Status. We hope you enjoy using the app!</p>
+
+    <p><strong>- Riya Singhal</strong></p>
+</body>
+</html>
